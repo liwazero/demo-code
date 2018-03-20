@@ -1,2 +1,2 @@
-git是一个版本管理工具
+git是一个distributed版本管理工具版本管理工具
 git是免费的
