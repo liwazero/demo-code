@@ -2,3 +2,4 @@ git是一个distributed版本管理工具版本管理工具
 git是免费的
 在dev上的修改
 手动修改掉feature1和master上的修改
+feture1分支上在此处做了修改，并推到远程仓库。master分支也在此处做修改
