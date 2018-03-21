@@ -1,4 +1,4 @@
 git是一个distributed版本管理工具版本管理工具
 git是免费的
 在dev上的修改
-超前一个提交后，在master上做修改
+手动修改掉feature1和master上的修改
